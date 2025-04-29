@@ -38,3 +38,45 @@ header h1 {
     font-family: "Birthstone", sans-serif;
     font-size: 50px;
 }
+
+#sobre {
+    display: flex;
+    padding-top: 24px;
+}
+
+
+.txtSobre {
+    padding-left: 24px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.txtSobre h2,
+.txtSobre h3 {
+    font-family: "Birthstone";
+}
+
+.txtSobre h2 {
+    font-size: 32px;
+}
+
+.txtSobre h3 {
+    font-size: 24px;
+}
+
+.txtSobre p {
+    font-family: "roboto";
+    font-size: 16px;
+}
+
+#imgHome {
+    width: 640px;
+}
+
+.imgsLogo img {
+    height: 40px;
+    width: 100px;
+    padding-right: 24px;
+}
+
